@@ -1,0 +1,75 @@
+
+.navbar{
+padding: 30px;
+box-shadow: #310818;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+.navbar-nav{
+  margin-left: 350px;
+}
+
+.heroBanner{
+    z-index: 50px;
+}
+
+.button1{
+    color: #F26322;
+    font-size: 12pt;
+    font-weight: 600;
+    padding: 8px 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.button2{
+    color: #ffffff;
+    font-size: 12pt;
+    font-weight: 600;
+    background-color: #F26322;
+    padding: 8px 30px;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-right: 80px;
+}
+
+h1{
+    font-family: Fredoka;
+    font-size: 35pt;
+    color: #310818;
+    font-weight: 500;
+    margin-left:8%;
+    margin-right: 50%;
+    margin-top: -490px;
+}
+.bolden{
+    font-family: Fredoka;
+    margin-top: -490px;
+}
+
+p{
+  font-family: Andika;
+  font-size: 20pt;
+  margin-left:8%;
+  margin-right: 50%;
+}
+
+#para1{
+    font-family: Andika;
+    font-size: 16pt;
+    margin-left:45%;
+    margin-right: 10%;
+    margin-top: -600px;
+}
+.makeBackground{
+  width: 100%;
+}
+
+.introSect{
+    margin-top: 113px;
+    z-index: -250px;
+}
