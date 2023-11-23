@@ -48,6 +48,16 @@ h1{
 }
 .bolden{
     font-family: Fredoka;
+    font-size: 20pt;
+    font-weight: 300;
+    margin-top: -490px;
+}
+
+.bolden1{
+    font-family: Andika;
+    color: #F26322;
+    font-size: 16pt;
+    font-weight: 300;
     margin-top: -490px;
 }
 
@@ -61,9 +71,26 @@ p{
 #para1{
     font-family: Andika;
     font-size: 16pt;
-    margin-left:45%;
-    margin-right: 10%;
+    margin-left:40%;
+    margin-right: 12%;
     margin-top: -600px;
+    color: #310818;
+}
+h2{
+    color: #310818;
+    font-family: Fredoka;
+    margin-left: 40%;
+    margin-right: 10%;
+
+}
+ul{
+    font-family: Andika;
+    font-size: 16pt;
+    margin-left: 39%;
+    margin-right: 10%;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    color: #310818;
 }
 .makeBackground{
   width: 100%;
@@ -72,4 +99,9 @@ p{
 .introSect{
     margin-top: 113px;
     z-index: -250px;
+}
+
+.approval{
+        margin-top: 116px;
+        z-index: -250px;
 }
