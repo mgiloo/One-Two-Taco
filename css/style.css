@@ -1,7 +1,11 @@
 
 .navbar{
-padding: 30px;
-box-shadow: #310818;
+    padding: 30px;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    box-shadow: #310818;
 }
 
 .navbar-brand{
@@ -73,7 +77,7 @@ p{
     font-size: 16pt;
     margin-left:40%;
     margin-right: 12%;
-    margin-top: -600px;
+    margin-top: -550px;
     color: #310818;
 }
 h2{
@@ -101,7 +105,104 @@ ul{
     z-index: -250px;
 }
 
-.approval{
-        margin-top: 116px;
-        z-index: -250px;
+#approval{
+  margin-top: 113px;
+  align-items: center;
+}
+
+.flex-Container{
+    display: flex;
+    width: 80%;
+    padding-left: 15%;
+    padding-top: 2%;
+    margin-top: 10px;
+    margin-left: 10%;
+  }
+
+h3{
+    color: #310818;
+    font-family: Fredoka;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: -570px;
+}
+
+#para2{
+    font-family: Andika;
+    font-size: 16pt;
+    margin-left:-5%;
+    margin-right: 25%;
+    margin-top: 25px;
+    color: white;
+    border: solid 2px #fa9e09;
+    border-bottom-left-radius: 55px;
+    border-top-right-radius: 55px;
+    background-color: #fa9e09;
+    padding: 30px;
+
+}
+
+#testimonial{
+    margin-top: -47px;
+}
+
+h4{
+    color: #310818;
+    font-size: 14pt;
+    font-family: Andika;
+    margin-top: -460px;
+    padding-bottom: 10px;
+    margin-left: 51%;
+
+}
+
+#para3{
+    font-family: Fredoka;
+    text-align: center;
+    color: #310818;
+    font-size: 25pt;
+    font-weight: 500;
+    margin-left: 10%;
+    margin-right: 15px;
+}
+
+.button3{
+ font-size: 15pt;
+ font-weight: 600;
+ margin-bottom: 20px;
+ padding: 10px 20px;
+ margin-left: 49%;
+ color: #310818;
+ border: solid 2px #310818;
+ background-color: #FBF9BA;
+ border-radius: 8px;
+}
+
+#footerimg{
+    margin-top: 230px;
+}
+
+#para4{
+    font-family: Fredoka;
+    text-align: center;
+    color: white;
+    font-size: 35pt;
+    font-weight: 500;
+    margin-left: 35%;
+    margin-right: 15px;
+    margin-top: -320px;
+}
+
+.button4{
+ font-family: Andika;
+ font-size: 15pt;
+ font-weight: 600;
+ margin-bottom: 20px;
+ padding-bottom: 10px;
+ margin-left: 58%;
+ color: #310818;
+ background-color: #FBF9BA;
+ padding: 10px 23px;
+ border-radius: 8px;
+ box-shadow: #310818;
 }
